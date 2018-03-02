@@ -1,8 +1,5 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
-    <Version Condition=" '$(BUILD_BUILDNUMBER)' == '' ">1.0.0-local</Version>
-    <Version Condition=" '$(BUILD_BUILDNUMBER)' != '' ">$(BUILD_BUILDNUMBER)</Version>
     <Description>Client for the plik api</Description>
     <Authors>iss0</Authors>
     <TargetFrameworks>net45;netstandard2.0</TargetFrameworks>
