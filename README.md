@@ -37,7 +37,7 @@ var fileBytes = await downloadResult.ReadAsByteArrayAsync();
 ```
 ```csharp
 // Download all files as zip
-var zipDownloadResult = await _plikApi.GetArchiveAsync(upload.Id, "wholething.zip");
+var zipDownloadResult = await plikApi.GetArchiveAsync(upload.Id, "wholething.zip");
 ```
 ```csharp
 // Delete a file
