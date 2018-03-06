@@ -1,5 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/gn2x6yuhyahookk2?svg=true)](https://ci.appveyor.com/project/iss0/pliksharp)
-[![NuGet](https://img.shields.io/nuget/dt/iss0.Plik.Client.svg)](https://www.nuget.org/packages/iss0.Plik.Client)
+[![NuGet version](https://badge.fury.io/nu/iss0.Plik.Client.svg)](https://badge.fury.io/nu/iss0.Plik.Client)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
 # plikSharp
