@@ -26,8 +26,4 @@
   <ItemGroup>
     <PackageReference Include="Refit" Version="4.3.0" />
   </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\iss0.Plik.Models\iss0.Plik.Models.csproj" />
-  </ItemGroup>
 </Project>
