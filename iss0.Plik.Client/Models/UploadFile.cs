@@ -30,7 +30,7 @@ namespace iss0.Plik.Client.Models
         public string Status { get; set; }
         public string FileType { get; set; }
         public int FileUploadDate { get; set; }
-        public int FileSize { get; set; }
+        public ulong FileSize { get; set; }
         public string Reference { get; set; }
         public string DownloadUrl(string uploadId) => $"/file/{uploadId}/{Id}/{FileName}";
     }
